@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Miguel Grilo
 
-<!--
-**mielzmc/mielzmc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 Tecnologias que domino:
 
-Here are some ideas to get you started:
+### 🔹 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+
+![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgrilo&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgrilo&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Contato
+📧 **Email:** miguelsgrilo.10@gmail.com 
+🔗 **LinkedIn:** https://www.linkedin.com/in/miguel-vs-grilo
