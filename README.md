@@ -23,35 +23,13 @@ Atualmente estudando Fullstack em Java, criando projetos para portfólio e evolu
 
 ### 🔧 Estudando agora:
 <p>
-  <img height="30" src="https://img.shields.io/badge/Java-7D3CF9?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img height="30" src="https://img.shields.io/badge/JavaScript-6FFFC8?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img height="30" src="https://img.shields.io/badge/Java-7D3CF9?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=mielzmc&show_icons=true&theme=tokyonight&border_radius=15" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mielzmc&layout=compact&theme=tokyonight&border_radius=15" />
-</div>
 
 ---
 
 ## 🌐 Contato
 
 📧 **Email:** miguelsgrilo.10@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/miguel-vs-grilo  
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7D3CF9&height=120&section=footer" />
-</p>
-
-## 📊 GitHub Stats
-
-![Mielz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mielzmc&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mielzmc&layout=compact&theme=tokyonight)
-
+🔗 **LinkedIn:** https://www.linkedin.com/in/miguel-vs-grilo
