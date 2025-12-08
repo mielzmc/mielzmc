@@ -1,4 +1,3 @@
-<!-- Banner opcional -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=7D3CF9&height=180&section=header&text=Mielzmc&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
 </p>
@@ -6,7 +5,7 @@
 ---
 
 ## 👋 Olá! Eu sou o **Miguel Grilo**  
-### 🚀 Desenvolvedor Full Stack em formação | Java • HTML • CSS
+### 🚀 Desenvolvedor Full Stack em formação | HTML • CSS • JavaScript • Java (em breve)
 
 Sou apaixonado por tecnologia, design e desenvolvimento web.  
 Atualmente estudando Fullstack em Java, criando projetos para portfólio e evoluindo diariamente.
@@ -24,7 +23,6 @@ Atualmente estudando Fullstack em Java, criando projetos para portfólio e evolu
 ### 🔧 Estudando agora:
 <p>
   <img height="30" src="https://img.shields.io/badge/JavaScript-6FFFC8?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img height="30" src="https://img.shields.io/badge/Java-7D3CF9?style=for-the-badge&logo=openjdk&logoColor=white" />
 </p>
 
 ---
